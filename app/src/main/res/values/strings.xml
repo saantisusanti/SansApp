@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SansApp</string>
+    <string name="todo">todo</string>
+    <string name="_10117098_santi_susanti">10117098 - Santi Susanti</string>
+    <string name="sansapp">SansApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="messages">Messages</string>
+    <string name="friends">Friends</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="kontak" />
+    <string name="contact" />
+    <string name="update_friends" />
+    <string name="end">End</string>
+</resources>
